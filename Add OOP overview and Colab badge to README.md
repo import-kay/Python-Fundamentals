@@ -21,4 +21,4 @@ You can run this notebook directly in your browser via Google Colab without any 
 2. Go to File > **Save a copy in Drive** to run and edit the code yourself.
 3. Step through the cells sequentially (`Shift + Enter`).
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/import-kay/Python-Fundamentals/blob/main/OOP_Py103.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/import-kay/Python-Fundamentals/blob/main/Py103.ipynb)
